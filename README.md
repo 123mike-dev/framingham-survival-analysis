@@ -49,24 +49,6 @@ By analyzing risk factors and survival probabilities, this project demonstrates 
 ![Cox Model Summary](images/cox_summary.png)  
 *Hazard ratios of key risk factors from Cox Proportional Hazards model.*
 
-##  Project Structure
-framingham-survival-analysis/
-│
-├── data/
-│ └── framingham.csv
-├── notebooks/
-│ └── survival_analysis.ipynb
-├── src/
-│ └── preprocessing.py
-├── images/
-│ ├── survival_curve.png
-│ └── cox_summary.png
-├── README.md
-├── requirements.txt
-├── .gitignore
-
-
-
 ##  Installation
 
 1. Clone the repository:
