@@ -77,20 +77,6 @@ pip install -r requirements.txt
 
 jupyter notebook notebooks/survival_analysis.ipynb
 
-##  Insights & Findings
-
-Smoking significantly increases cardiovascular risk (50% higher hazard).
-Age and cholesterol levels are strong predictors of heart disease.
-Survival probability drops sharply after age 55 for high-risk groups.
-This analysis can guide early interventions in clinical practice.
-
-## Conclusion
-
-This project demonstrates the power of survival analysis in predicting cardiovascular risk and interpreting real-world healthcare data.
-It combines data science, visualization, and statistical modeling to generate actionable insights.
-
-
----
 
 ## **Jupyter Notebook – survival_analysis.ipynb**  
 
